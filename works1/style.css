@@ -91,7 +91,7 @@ ul{
 
 /* メインビジュアル */
 .visual{
-    background: url("../img/mainbg.png");
+    background: url("img/mainbg.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
