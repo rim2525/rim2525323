@@ -47,7 +47,7 @@ body {
   width: 200px;
   padding: 20px;
   border-radius: 4px;
-  background-color: #afa58d;
+  background-color: #D29E04;
   color: #fff;
   text-decoration: none;
   letter-spacing: 1px;
@@ -94,6 +94,7 @@ body {
   margin-bottom: 50px;
   color: #D29E04;
   font-size: 1.6rem;
+  font-weight:bold;
 }
 .buttons .button {
   margin: 10px;
